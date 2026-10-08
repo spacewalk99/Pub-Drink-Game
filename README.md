@@ -1,2 +1,2 @@
-# Pub-Drink-Game
+# Pub-Drink-Choice-Game
 Randomly choose a drink
